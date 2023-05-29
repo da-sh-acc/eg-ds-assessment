@@ -2,6 +2,6 @@
 
 Python Code for Evil Geniuses Data Science Intern Assessment
 
-## NBA Attendance Prediction
+## EG_DS_Assessment_Report.pdf
 
 Written Report for Evil Geniuses Data Science Intern Assessment
